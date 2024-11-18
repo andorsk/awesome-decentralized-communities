@@ -12,7 +12,7 @@
   large gathering focused on crypto and blockchain.
 - [DICE](https://diceurope.org/) : Intent to foster collaboration and work
   together on the adoption of a dignified digital identity between governments,
-  citizens, and companies across Europe.
+  citizens, and companies across Europe. Annual in March.
 - [Decentralized Web Summit](https://indieweb.org/Decentralized_Web_Summit) :
   The Summit & meetup is a two-day event for high level discussions among
   leaders from around the globe working on decentralized technologies.
@@ -35,6 +35,10 @@ the Digital ID Multiverse
   bridge the gap between academia and industry in the pursuit of building and
   using decentralized systems
 - [Nonprofit Software Development Summit](https://aspirationtech.org/events/devsummit24) : Community that comes together from around the world to share knowledge, build relationships, and collectively envision the future of free, open and equitable digital tools and practices to support social change. ( Annual ~November)
+- [Future Identity Festival](https://thefutureidentity.com/events/europe/fid-festival/) : Dedicated community of identity, security, and customer experience innovators from financial services, retail, healthcare, government, information technology and other key sectors. Annual in November.
+- [Hybrid Identity Protection Conference (HIP Conf)](https://www.hipconf.com/) : A global events series focused on helping organizations meet the identity and access management challenges that arise in today’s fast-moving business environment. Annual. Mid November. Orleans. 
+- [Trusted economy forum commonsign 2024](https://trustedeconomyforum.com/en/tef-cs-2024/) : November. Warsaw. The well-known conference brands, Trusted Economy Forum and CommonSign, are joining forces to create a one-of-a-kind event focused on the digital market in Poland and Europe.
+- [DID:UNCONF AFRICA](https://didunconf.africa/) : DID:UNCONF AFRICA brings together local and international innovators, leaders, and activists to shape the future of digital identity in the SADC region. This event fosters innovation, collaboration, and interoperability, making a significant impact on the inclusive development of digital identity in Africa. Annual in February.
 
 ## Hackathons
 
