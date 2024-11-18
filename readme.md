@@ -71,6 +71,8 @@ the Digital ID Multiverse
 - [Digital Infrastructure Insights Fund RFP](https://fordfoundation.forms.fm/2024-digital-infrastructure-insights-fund-rfp/forms/9861) : The funders circle sustains a platform for academics and practitioners to better understand how open digital infrastructure is built and deployed. 
 - [SovereignTechFund](https://www.sovereigntechfund.de/) : The Sovereign Tech Fund supports the development, improvement, and maintenance of open digital infrastructure.
 - [NSF 24-606: Pathways to Enable Open-Source Ecosystems](https://new.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems/nsf24-606/solicitation): The Pathways to Enable Open-Source Ecosystems (POSE) program aims to harness the power of open-source development for the creation of new technology solutions to problems of national and societal importance.
+- [Canada-UK Collaborative R&D  - Innovation Funding Service](https://apply-for-innovation-funding.service.gov.uk/competition/2049/overview/f0266280-f308-42a4-b331-bf1558fd6d19): UK registered organisations can apply for a share of up to £3 million for collaboration with Canadian SMEs on joint R&D projects. (November 4, 2024 - Wednesday 16 April 2025)
+  
 ## Venture 
 
 - [Brinc](https://www.brinc.io/) : Brinc is a venture accelerator firm founded
