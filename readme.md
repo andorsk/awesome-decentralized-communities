@@ -10,6 +10,8 @@
   blockchain fair.
 - [Consensus](https://consensus2024.coindesk.com/) : Consensus is the world’s a
   large gathering focused on crypto and blockchain.
+- [Devcon](https://devcon.org/en/) : Breaking the rule here a little, because this is an ethereum focused event,
+  but Devcon also has a layer of decentralized application building that is outside of ethereum and is a very large conference. Their focus is to push the boundaries of possibility in our mission to bring decentralized protocols, tools, and culture to the world.
 - [DICE](https://diceurope.org/) : Intent to foster collaboration and work
   together on the adoption of a dignified digital identity between governments,
   citizens, and companies across Europe. Annual in March.
