@@ -65,6 +65,8 @@ the Digital ID Multiverse
 - [WiNGHacks](https://www.winghacks.com/) : University of Florida (UF)'s
   hackathon specifically created to uplift Women, Non-binary and
   Gender-nonconforming students in their technology journey.
+- [LLM Agents Hackathon](https://rdi.berkeley.edu/llm-agents-hackathon/): We hope this hackathon with these specially-designed tracks can help demonstrate that we are entering a new phase of maturity and practicality of LLM agent technology where: Every developer can learn to use LLM agent technology for building innovative applications (Applications Track). Decentralized community collaboration can effectively bring the community together to build key technologies and infrastructure for LLM agents, serving as important foundations and public good for the community in AI (Benchmarks, Fundamentals, Safety, and Multi-Agent Tracks).
+
 
 ## Programs/Grants
 
